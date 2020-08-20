@@ -4,3 +4,4 @@ My images are resized to 416 by 416 which is AWS rekognition requirement. Images
 In this post i will show you how can you call rekognition model for inference and can show inference by accessing your laptop camera (taking image and videos).
 This live demo shows how can one take image with laptop camera, store it in S3 bucket, access Rekognition model, do inference and get results with bounding boxes and labels.
 One can also show results by video. I will explain how to convert video to frames, do inference on every frame and at the end show output as a video.
+Follow my medium post for step by step project implementation.
